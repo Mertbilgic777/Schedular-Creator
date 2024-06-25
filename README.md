@@ -1,4 +1,4 @@
-# project1
+# Schedular Creator
 
 ## Project setup
 ```
