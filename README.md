@@ -1,6 +1,6 @@
 # Schedular Creator
 
-[project](https://youtu.be/UW38Sf7D-x4) – Oroject overview video
+[project](https://youtu.be/UW38Sf7D-x4) – Project Overview Video
 
 ## Project setup
 ```
