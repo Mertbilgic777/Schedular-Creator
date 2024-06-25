@@ -1,5 +1,8 @@
 # Schedular Creator
 
+[Project Overview] – Project Overview Video
+[Project Overview]: <https://youtu.be/UW38Sf7D-x4Z>
+
 ## Project setup
 ```
 npm install
